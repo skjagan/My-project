@@ -1,4 +1,4 @@
-# Tic tav toe
+# Tic tac toe
 
 Steps to setup the project:
 1. Clone this repo.
